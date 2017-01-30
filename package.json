@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lisaztruong/horizons-app/issues"
   },
-  "homepage": "https://github.com/lisaztruong/horizons-app#readme"
+  "homepage": "https://github.com/lisaztruong/horizons-app#readme",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
 }
